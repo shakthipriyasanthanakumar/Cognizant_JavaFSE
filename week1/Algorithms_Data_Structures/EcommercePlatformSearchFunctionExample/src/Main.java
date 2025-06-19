@@ -1,5 +1,5 @@
-package Cognizant_JavaFSE.week1.Algorithms_Data_Structures.EcommercePlatformSearchFunctionExcercise2.src;
-import java.util.*;
+package Cognizant_JavaFSE.week1.Algorithms_Data_Structures.EcommercePlatformSearchFunctionExample.src;
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

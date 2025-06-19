@@ -1,4 +1,4 @@
-package Cognizant_JavaFSE.week1.Algorithms_Data_Structures.EcommercePlatformSearchFunctionExcercise2.src;
+package Cognizant_JavaFSE.week1.Algorithms_Data_Structures.EcommercePlatformSearchFunctionExample.src;
 
 import java.util.Arrays;
 import java.util.Comparator;
